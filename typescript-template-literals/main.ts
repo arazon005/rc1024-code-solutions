@@ -8,7 +8,7 @@ const firstName = 'Uzair';
 const lastName = 'Ashraf';
 const age = 25;
 
-const bio = `My name is  + ${firstName} ${lastName}
+const bio = `My name is ${firstName} ${lastName}
  and I am ${age} years old.`;
 
 console.log('Bio:', bio);
