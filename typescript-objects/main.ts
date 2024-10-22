@@ -2,8 +2,8 @@ interface StudentProps {
   firstName: string;
   lastName: string;
   age: number;
-  livesInIrvine: boolean;
-  previousOccupation: string;
+  livesInIrvine?: boolean;
+  previousOccupation?: string;
 }
 
 const student: StudentProps = {
@@ -27,8 +27,8 @@ interface Vehicle {
   make: string;
   model: string;
   year: number;
-  color: string;
-  isConvertible: boolean;
+  color?: string;
+  isConvertible?: boolean;
 }
 
 const vehicle: Vehicle = {
@@ -42,7 +42,10 @@ vehicle['isConvertible'] = false;
 console.log('vehicle', vehicle);
 console.log('typeof vehicle', typeof vehicle);
 
-interface Pet {}
+interface Pet {
+  name?: string;
+  kind?: string;
+}
 
 const pet: Pet = {
   name: 'Happy',
