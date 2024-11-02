@@ -1,0 +1,141 @@
+body {
+  padding: 30px;
+  font-family: Avenir, sans-serif;
+  color: gray;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+}
+
+.column-half-width {
+  width: 50%;
+  align-content: center;
+}
+
+.column-half-width-centered {
+  width: 50%;
+  align-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.column-two-thirds {
+  width: calc(200% / 3);
+}
+
+.column-quarter-width {
+  width: 25%;
+}
+
+.logo {
+  height: auto;
+  width: 25%;
+}
+
+a {
+  padding: 10px;
+  margin: 10px;
+  font-size: 1.2rem;
+  color: gray;
+  text-decoration: none;
+}
+
+.blue-bg {
+  background-color: midnightblue;
+  color: white;
+  border-radius: 5px;
+}
+
+.header {
+  padding-bottom: 8px;
+  border-bottom: 2px solid lightgray;
+  padding-left: 50px;
+}
+
+.hero {
+  padding: 50px;
+  position: relative;
+}
+
+.hero img {
+  width: 100%;
+}
+
+.hero-text {
+  position: absolute;
+  padding: 50px;
+  color: white;
+}
+
+h1 {
+  font-weight: 600;
+  font-family: 'Tiempos Headline', sans-serif;
+}
+
+h2 {
+  font-family: 'Tiempos Headline', sans-serif;
+  font-weight: 200;
+}
+
+.hero-text p,
+h1,
+a {
+  margin: 40px 10px;
+}
+
+.hero-text a {
+  padding: 10px 40px;
+}
+
+.schedule a {
+  padding: 10px 40px;
+}
+
+.clinicians {
+  background-color: lightgray;
+  padding: 30px;
+  font-size: larger;
+  text-align: center;
+  border-bottom: 1px solid gray;
+}
+
+.schedule {
+  padding: 30px 0;
+  padding-left: 90px;
+}
+
+.schedule .column-quarter-width {
+  align-content: center;
+}
+
+.company-info {
+  background-color: gray;
+  color: white;
+  font-size: large;
+  padding: 90px;
+}
+
+.company-info > .row > .column-half-width > p {
+  margin: 5px 0;
+}
+
+.company-info > .row > .column-half-width > img {
+  margin-bottom: 30px;
+}
+
+.company-info > .row > .column-quarter-width > p a {
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+
+.footer {
+  background-color: lightgray;
+  padding: 10px 60px;
+}
