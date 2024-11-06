@@ -1,0 +1,31 @@
+* {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-basis: calc(100 / 3);
+  justify-content: center;
+  align-items: center;
+}
+
+.bulb {
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+
+.on {
+  background-color: rgb(255, 255, 99);
+}
+
+.off {
+  background-color: rgb(78, 78, 78);
+  border-top: 15px solid rgb(48, 48, 48);
+  border-right: 5px solid rgb(48, 48, 48);
+  border-left: 5px solid rgb(48, 48, 48);
+}
+
+.bg-off {
+  background-color: rgb(39, 39, 39);
+}
