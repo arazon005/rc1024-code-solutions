@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypeScript Carousel</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main>
+      <div>
+        <div class="container">
+          <div class="arrow-column">
+            <a class="fa-solid fa-arrow-left fa-xl arrow" id="left"></a>
+          </div>
+          <div class="center-column">
+            <div class="row">
+              <img src="images/001.png" />
+            </div>
+            <div class="row progress-nav">
+              <a class="fa-solid fa-circle progress" id="0"></a>
+              <a class="fa-regular fa-circle progress" id="1"></a>
+              <a class="fa-regular fa-circle progress" id="2"></a>
+              <a class="fa-regular fa-circle progress" id="3"></a>
+              <a class="fa-regular fa-circle progress" id="4"></a>
+            </div>
+          </div>
+          <div class="arrow-column">
+            <a class="fa-solid fa-arrow-right fa-xl arrow" id="right"></a>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="main.js"></script>
+  </body>
+</html>
