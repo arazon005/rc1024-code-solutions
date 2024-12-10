@@ -1,0 +1,500 @@
+   59  git branch typescript-functions-practice
+   60  git switch typescript-functions-practice
+   61  cd typescript-functions-practice
+   62  npx tsc --watch
+   63  git add typescript-functions-practice
+   64  git commit -m "Completed typescript functions practice"
+   65  git push origin typescript-functions-practice
+   66  cd typescript-functions-practice
+   67  npx tsc --watch
+   68  git switch main
+   69  git  stash
+   70  git stash list
+   71  git stash clear
+   72  git stash list
+   73  git switch main
+   74  git pull origin main
+   75  git branch typescript-methods
+   76  git switch typescript-methods
+   77  git status
+   78  git status
+   79  cd typescript-methods
+   80  npx tsc --watch
+   81  git switch main
+   82  git pull origin main
+   83  git branch typescript-conditionals
+   84  git switch typescript-conditionals
+   85  cd typescript-conditionals
+   86  npx tsc --watch
+   87  git add typescript-conditionals
+   88  git commit -m "Completed typescript conditionals"
+   89  git push origin typescript-conditionals
+   90  git switch main
+   91  git pull origin main
+   92  git branch typescript functions
+   93  git branch typescript-functions
+   94  git typescript-loops
+   95  git bracnh typescript-loops
+   96  git branch typescript-loops
+   97  git switch typescript-loops
+   98  cd typescript-loops
+   99  npx tsc --watch
+  100  git add typescript-loops
+  101  git commit -m "Completed typescript loops"
+  102  git push origin typescript-loops
+  103  git switch main
+  104  git branch typescript-loops-practice
+  105  git switch typescript-loops-practice
+  106  cd typescript-loops-practice
+  107  npx tsc --watch
+  108  git switch main
+  109  git branch array-manipulation-1
+  110  git switch array-manipulation-1
+  111  cd array-manipulation-1/src
+  112  npx tsc --watch
+  113  git add array-manipulation-1
+  114  git commit -m "Completed array manipulation 1"
+  115  git push origin array-manipulation-1
+  116  git switch main
+  117  git switch array-manipulation-1
+  118  git switch main
+  119  git branch string-manipulation-1
+  120  git switch string-manipulation-1
+  121  cd string-manipulation-1/src
+  122  npx tsc --watch
+  123  git add string-manipulation-1
+  124  git commit -m "Completed string manipulation-1"
+  125  git push origin string-manipulation-1
+  126  git switch array-manipulation-1
+  127  cd string-manipulation-1
+  128  cd array-manipulation-1
+  129  npx tsc --watch
+  130  git add array-manipulation-1
+  131  git commit -m "Added pseudocode"
+  132  git push origin array-manipulation-1
+  133  git switch main
+  134  git branch object-manipulation-1
+  135  git switch object-manipulation-1
+  136  cd object-manipulation-1
+  137  npx tsc --watch
+  138  cd object-manipulation-1/src
+  139  npx tsc --watch
+  140  git switch main
+  141  git branch html-intro
+  142  git switch html-intro
+  143  git add html-intro
+  144  git commit -m "Completed html intro"
+  145  git push origin html-intro
+  146  git switch main
+  147  git branch html-block-and-inline
+  148  git switch html-blcok-and-inline
+  149  git switch html-block-and-inline
+  150  git add html-block-and-inline
+  151  git commit -m "Completed html-block-and-inline"
+  152  git add html-block-and-inline
+  153  git commit -m "Completed html-block and inline"
+  154  git push origin html-block-and-inline
+  155  git switch main
+  156  git branch html-lists
+  157  git switch html-lists
+  158  git add html-lists
+  159  git commit -m "Completed html lists"
+  160  git push origin main
+  161  git push origin html-lists
+  162  git switch main
+  163  git branch html-links
+  164  git switch html-links
+  165  git add html-links
+  166  git commit -m "html-links"
+  167  git push origin html-links
+  168  git switch main
+  169  git branch string-manipulation-2
+  170  git switch string manipulation-2
+  171  cd string-manipulation-2/src
+  172  git branch string-manipulation-2
+  173  git switch string-manipulation-2
+  174  cd string-manipulation-2/src
+  175  npx tsc --watch
+  176  git branch html-forms
+  177  git switch html-forms
+  178  git switch main
+  179  git switch html-forms
+  180  git add html-forms
+  181  git commit -m "Completed html forms"
+  182  git push origin html-forms
+  183  git switch main
+  184  git switch string-manipulation-2
+  185  cd string-manipulation-2/src
+  186  npx tsc --watch
+  187  git switch main
+  188  git branch css-layout-classes
+  189  git switch css-lauout-classes
+  190  git switch css-layout-classes
+  191  git switch main
+  192  git pull origin main
+  193  git branch css-cascade
+  194  git switch css-cascade
+  195  git add css-cascade
+  196  git commit -m "completed css cascade"
+  197  git push origin css-cascade
+  198  git switch main
+  199  git branch dom-querying
+  200  git switch dom-querying
+  201  cd dom-querying
+  202  npx tsc --watch
+  203  git add dom-querying
+  204  git commit -m "completed dom-querying"
+  205  git add dom-querying
+  206  git commit -m "Added quiz answers"
+  207  git push origin dom-querying
+  208  git switch main
+  209  git branch dom-events
+  210  git switch dom-events
+  211  cd dom-events
+  212  npx tsc --watch
+  213  git add dom-events
+  214  git commit -m "completed dom-events"
+  215  git push origin dom-events
+  216  git switch main
+  217  git branch dom-manipulations
+  218  git switch dom-manipulations
+  219  git switch main
+  220  git status
+  221  git branch
+  222  git branch
+  223  git delete branch dom-manipulations
+  224  git --help
+  225  git branch -d dom-manipulations
+  226  git branch dom-manipulation
+  227  git switch dom-manipulation
+  228  cd dom-manipulation
+  229  npx tsc --watch
+  230  cd dom-manipulation
+  231  npx tsc --watch
+  232  git switch main
+  233  git branch dom-creation
+  234  git switch dom-creation
+  235  cd dom-creation
+  236  npx tsc --watch
+  237  git add dom-creation
+  238  git commit -m "completed dom-creation"
+  239  git push origin dom-creation
+  240  git switch main
+  241  git branch dom-event-delegation
+  242  git switch dom-event-delegation
+  243  cd dom-event-delegation
+  244  npx tsc --watch
+  245  git switch main
+  246  git pull origin main
+  247  git pull origin main
+  248  git pull origin main
+  249  git pull origin main
+  250  git switch dom-manipulation
+  251  git switch main
+  252  git restore
+  253  git restore typescript-data-models
+  254  git restore -s typescript-data-models
+  255  git restore -s "typescript-data-models"
+  256  branch
+  257  git branch
+  258  git switch typescript-data-model
+  259  git switch main
+  260  git restore typescript-data-model
+  261  git switch typescript-modal
+  262  cd typescript-modal
+  263  npx tsc --watch
+  264  git add typescript-modal
+  265  git commit 0m "completed typescript modal"
+  266  git commit -m "completed typescript modal"
+  267  git push origin typescript-modal
+  268  git switch main
+  269  git branch typescript-light-bulb
+  270  git switch typescript-light-bulb
+  271  cd typescript-light-bulb
+  272  npx tsc --watch
+  273  git add typescript-light-bulb
+  274  git commit -m "completed typescript light bulb"
+  275  git push typescript-light-bulb
+  276  git push origin typescript-light-bulb
+  277  git switch main
+  278  git pull origin main
+  279  git branch typescript-typing-tutor
+  280  git switch typescript-typing-tutor
+  281  cd typescript-typing-tutor
+  282  npx tsc --watch
+  283  git switch main
+  284  git branch typescript-forms
+  285  git switch typescript-forms
+  286  cd typescript-forms
+  287  npx tsc --watch
+  288  git add typescript-forms
+  289  git commit -m "completed typescript forms"
+  290  git push origin typescript-forms
+  291  git switch main
+  292  git branch css-media-queries
+  293  git switch css-media-queries
+  294  git add css-media-queries
+  295  git commit -m "completed css-media-queries"
+  296  git push origin css-media-queries
+  297  git switch main
+  298  git branch css-transitions-and-transformations
+  299  git switch css-transitions-and-transformations
+  300  git add css-transitions-and-transformations
+  301  git add css-transitions-and-transforms
+  302  git commit -m "completed css transitions and transforms"
+  303  git push origin css-transitions-and-transformations
+  304  git switch css-transitions-and-transformations
+  305  git branch -m css-transitions-and-transforms
+  306  git push origin css-transitions-and-transforms
+  307  git switch main
+  308  git branch css-responsive-layout
+  309  git switch css-responsive-layout
+  310  git add css-responsive-layout
+  311  git commit -m "completed css responsive layout"
+  312  git push origin css-responsive-layout
+  313  git switch main
+  314  git pull origin main
+  315  git branch typescript-view-swapping
+  316  git switch typescript-view-swapping
+  317  cd typescript-view-swapping
+  318  npx tsc --watch
+  319  git add typescript-view-swapping
+  320  git commit -m "complete typescript-view-swapping"
+  321  git push origin typescript-view-swapping
+  322  git switch main
+  323  git pull origin main
+  324  git branch typescript-and-json
+  325  git switch typescript-and-json
+  326  cd typescript-and-json
+  327  npx tsc --watch
+  328  git add typescript-and-json
+  329  git commit -m "completed typescript-and-json"
+  330  git push typescript-and-json
+  331  git push origin typescript-and-json
+  332  git switch main
+  333  git branch typescript-local-storage
+  334  git switch typescript-local-storage
+  335  cd typescript-local-storage
+  336  npx tsc --watch
+  337  git switch main
+  338  cd /workspaces
+  339  git clone git@github.com:arazon005/code-journal-rc-1024.git
+  340  cd code-journal
+  341  cd code-journal-rc-1024
+  342  npm install
+  343  git branch create-entry
+  344  git switch create-entry
+  345  git commit -m "completed html issues (issues 1-4)"
+  346  git add create-entry
+  347  git switch main
+  348  git switch create-entry
+  349  git add
+  350  git add .
+  351  git commit -m "completed html issues (issues 1-4)"
+  352  git push origin .
+  353  git switch main
+  354  git switch create-entry
+  355  git push origin create-entry
+  356  cd ts
+  357  npx tsc --watch
+  358  git add .
+  359  git commit -m "added input event listener to photo url to add a photo preview (#5)"
+  360  git push origin create-entry
+  361  cd ts
+  362  npx tsc --watch
+  363  git add .
+  364  git commit -m "completed the submit listener (#6)
+  365  "
+  366  git push origin create-entry
+  367  cd ts
+  368  npx tsc --watch
+  369  cd ts
+  370  npx tsc --watch
+  371  git add .
+  372  git commit -m "Adjusted data.ts to save and read the whole data object"
+  373  git push origin create-entry
+  374  git switch main
+  375  git pull origin main
+  376  git branch view-entry
+  377  git switch view-entry
+  378  cd ts
+  379  npx tsc --watch
+  380  git add .
+  381  git commit -m "Added an unordered list to the data view for entries and populated it with a dummy entry, and created the renderEntry function (#1-4)"
+  382  git add .
+  383  git commit -m "Added an unordered list to the data view for entries and populated it with a dummy entry, and created the renderEntry function (#1-4)"
+  384  git push origin view-entry
+  385  cd ts
+  386  npx tsc --watch
+  387  git add .
+  388  git commit -m "Removed the dummy entry, created an event listener on the document which listens for the DOMContentLoaded to generate a dom tree for each entry, created the function toggleNoEntries, created the function viewSwap , and added an anchor to the navbar to show the entries view"
+  389  git push origin view-entry
+  390  cd ts
+  391  npx tsc --watch
+  392  git add .
+  393  git commit -m "Completed the rest of the issues & finished testing"
+  394  git push origin view-entry
+  395  git switch main
+  396  git pull origin main
+  397  git branch edit-entry
+  398  git switch edit-entry
+  399  cd ts
+  400  npx tsc --watch
+  401  cd ts
+  402  npx tsc --watch
+  403  git add .
+  404  git commit -m "Completed troubleshooting"
+  405  git add .
+  406  git commit -m "Adjusted styling for mobile"
+  407  git push origin edit-entry
+  408  git switch main
+  409  git pull origin main
+  410  cs ts
+  411  cd ts
+  412  npx tsc --watch
+  413  git branch delete-entry
+  414  git switch delete-entry
+  415  cd ts
+  416  npx tsc --watch
+  417  cd
+  418  cd workspaces
+  419  cd /worskpaces
+  420  cd /workspaces
+  421  git clone git@github.com:arazon005/week-planner.git
+  422  cd week-planner
+  423  npm install
+  424  git pull origin main
+  425  git add .
+  426  git commit -m "First timeblock progress" --no-verify
+  427  git push origin main
+  428  git pull origin main
+  429  git add .
+  430  git commit -m "more css styling" --no-verify
+  431  git push origin main
+  432  git pull origin main
+  433  git pull origin main
+  434  npx tsc --watch
+  435  git add.
+  436  git add .
+  437  git commit -m "working on functionality" --no-verify
+  438  git push origin main
+  439  git pull origin main
+  440  git pull origin main
+  441  npx tsc --watch
+  442  git add .
+  443  git commit -m "troubleshooting view swap"
+  444  git push origin main
+  445  npx tsc --watch
+  446  git pull origin main
+  447  git stash
+  448  git pull origin main
+  449  npx tsc --watch
+  450  cd practice-interview-challenge
+  451  npx tsc --watch
+  452  git add practice-interview-challenge
+  453  git branch practice-interview-challenge
+  454  git switch practice-interview-challenge
+  455  git status
+  456  git add practice-interview-challenge
+  457  git status
+  458  git commit -m "Completed practice interview challenge"
+  459  git push origin practce-interview-challenge
+  460  git status
+  461  git push origin practice-interview-challenge
+  462  git switch main
+  463  git pull origin main
+  464  git branch typescript-timers
+  465  git switch typescript-timers
+  466  cd typescript-timers
+  467  npx tsc --watch
+  468  git add typescript-timers
+  469  git commit -m "Completed typescript timers"
+  470  git push origin typescript-timers
+  471  cd typescript-timers
+  472  npx tsc --watch
+  473  git add typescript-timers
+  474  git commit -m "Added the clearInterval to stop the function"
+  475  git push origin typescript-timers
+  476  git switch main
+  477  git pull origin main
+  478  git branch typescript-carousel
+  479  git switch typescript-carousel
+  480  cd typescript-carousel
+  481  npx tsc --watch
+  482  git switch main
+  483  git pull origin main
+  484  git branch typescript-destructuring
+  485  git switch typescript-destructuring
+  486  cd typescript-destructuring
+  487  npx tsc --watch
+  488  git add typescript-destructuring
+  489  git commit -m "Completed typescript-destructuring"
+  490  git push origin typescript-destructuring
+  491  git switch main
+  492  git branch typescript-operators
+  493  git switch typescript-operators
+  494  cd typescript-operators
+  495  npx tsc --watch
+  496  git switch main
+  497  git branch array-methods
+  498  git switch array-methods
+  499  cd array-methods
+  500  npx tsc --watch
+  501  git add array-methods
+  502  git commit -m "completed array methods"
+  503  git push origin array-methods
+  504  git switch main
+  505  git pull origin main
+  506  git branch command-line-basics
+  507  git switch command-line-basics
+  508  cd command-line-basics
+  509  man cat
+  510  cat laziness.txt
+  511  cat impatience.txt
+  512  cat hubris.txt
+  513  cat laziness.txt impatience.txt hubris.txt
+  514  cat laziness.txt impatience.txt hubris.txt > three-virtues.txt
+  515  man ls
+  516  ls
+  517  ls -a
+  518  ls -l
+  519  ls -F
+  520  ls -a
+  521  man ls
+  522  ls -aF lfz-staff > lfz-staff/contents.txt
+  523  pwd
+  524  pwd > i-was-here.txt
+  525  cat i-was-here.txt
+  526  echo
+  527  echo 'Hello, World!'
+  528  echo 'Hello, World!' > hello.txt
+  529  cat hello.txt
+  530  touch tag-youre-it.txt
+  531  touch snoot/boop.txt
+  532  ls snoot
+  533  ls snoot/
+  534  mkdir parent
+  535  ls parent
+  536  ls parent/
+  537  man mkdir
+  538  mkdir -p parent
+  539  mkdir -p
+  540  mkdir -p parent/child/grandchild
+  541  touch parent/child/grandchild
+  542  touch parent/child/grandchild/.gitkeep
+  543  ls -a
+  544  ls -a parent
+  545  ls -a parent/child/grandchild
+  546  man mv
+  547  mv pokiemans pokemon
+  548  ls pokemon
+  549  rm lol.txt
+  550  ls lol.txt
+  551  ls hello.txt
+  552  rm -r kill-me/
+  553  ls kill-me/
+  554  cp and-then.txt no-and-then.txt
+  555  ls and-then.txt no-and-then.txt
+  556  cat and-then.txt no-and-then.txt
+  557  history
+  558  history > command-history.txt
