@@ -1,0 +1,35 @@
+.freeze,
+.cold,
+.warm {
+  color: white;
+}
+
+.freeze {
+  background-color: rgb(50, 13, 65);
+}
+
+.cold {
+  background-color: rgb(149, 149, 211);
+}
+
+.warm {
+  background-color: lightcoral;
+}
+
+.hot,
+.burning,
+.fire {
+  color: black;
+}
+
+.hot {
+  background-color: rgb(230, 169, 3);
+}
+
+.burning {
+  background-color: yellow;
+}
+
+.fire {
+  background-color: white;
+}
