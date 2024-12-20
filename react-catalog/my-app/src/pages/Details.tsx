@@ -1,6 +1,5 @@
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { type Product, readProduct, toDollars } from '../lib';
-import { Link, Navigate, useNavigate, useParams } from 'react-router-dom';
+import { Link, useNavigate, useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
 export function Details() {
@@ -59,7 +58,7 @@ export function Details() {
       <div className="row">
         <p>{product.longDescription}</p>
         <p>
-          <button onClick={handleClick} type="button" className="border b-3">
+          <button onClick={handleClick} type="button" className="border">
             Add to Cart
           </button>
         </p>
