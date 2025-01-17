@@ -22,7 +22,7 @@ export function Todos() {
   useEffect(() => {
     async function fetchTodos(): Promise<void> {
       try {
-        const res = await fetch(':8080/api/todos');
+        const res = await fetch('/api/todos');
         if (!res.ok) throw new Error(`fetch error ${res.status}`);
         const todos = (await res.json()) as Todo[];
         setTodos(todos);
